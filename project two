@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <head>
+<link href="https://fonts.googleapis.com/css?family=Fugaz+One" rel="stylesheet">
   <link href="/normalize.css" rel="stylesheet">
   <style>
     header {
@@ -7,6 +8,7 @@
       background: url('http://dash.ga.co/assets/jeff-bg.png');
       background-size: cover;
       color: white;
+      font-family: 'Fugaz One', cursive;
     }
     a {
       color: white;
@@ -31,6 +33,7 @@
       max-width: 500px;
       padding: 20px;
       margin: 0 auto;
+      font-family: 'Permanent Marker', cursive;
     }
     @media (max-width: 500px) {
       h1 {
@@ -42,31 +45,63 @@
         display: block;
       }
     }
+    body{
+      background:#D4FFD4;
+    }
   </style>
 </head>
 <body>
   <header>
     <img src="/assets/jeff.png">
-    <h1>Jeff's Blog</h1>
+    <h1>Afeni's Blog</h1>
     <ul>
       <li><a href="#">About Me</a></li>
-      <li><a href="#">Best Poems</a></li>
-      <li><a href="#">Worst Poems</a></li>
+      <li><a href="#">TODAY'S GOSSIPS</a></li>
+      <li><a href="#"> News</a></li>
     </ul>
   </header>
   <article>
-    <h2>VHS umami pop-up trust fund</h2>
-    <p>Marfa church-key kitsch bicycle rights, 8-bit mixtape cardigan gentrify Echo Park. Street art swag brunch, next level roof party Schlitz hella organic keffiyeh selfies. You probably haven't heard of them polaroid hashtag +1, meggings biodiesel Portland High Life cray tumblr retro.</p>
+    <h2>UNIOSUN Announces Closure of the Uni.</h2>
+    <p>The Governing Council of Osun State University has approved the closure of the University with immediate effect. This is sequel to the notorious activities of some non-teaching staff members under the guise of unionism. These activities now pose danger to lives and properties within and around the university campuses.
+
+Management wishes to sincerely apologize to parents, guardians and students for any inconveniences that this closure may cause. Efforts are geared towards addressing the prevalent lawlessness finally.
+
+We urge our law abiding staff and students to remain calm and stay away from the campuses in the mean time.
+
+Thank you.
+
+Signed
+Gafar Adebayo A. Shittu
+Registrar and Secretary to Council
+For and on behalf of Management.</p>
     <button>Like</button>
   </article>
   <article>
-    <h2>Sartorial synth Echo Park, roof party</h2>
-    <p>chambray you probably haven't heard of them pour-over viral selvage umami skateboard VHS post-ironic selfies. Wes Anderson gentrify fanny pack twee, bicycle rights bitters blog keffiyeh plaid flannel. Tonx irony cliche sustainable mlkshk bitters. Four loko leggings chambray Vice.</p>
+    <h2> I don't want to hurt my Jobless Boyfriend again.</h2>
+    <p> I am confused please, i own a supermarket and v been in a relationship with my current bf whoz not yet working after his Nysc, we v been dating for 3 years now and it has been going well even though I v cheated on him twice, but he forgave me, hez nice. My problem now is that I v a customer, we are extremely close to the extent that we do discuss everything together. am even now closer to him than my bf, hez like a bestie.
+
+But hez now asking me out and pple are telling me to answer him saying its advisable to date ur best friend than anyone else and I don't want to hurt my bf anymore and I don't want to hurt this guy too, he has bin nice to me...</p>
     <button>Like</button>
   </article>
   <article>
-    <h2>Forage food truck keytar master cleanse</h2>
-    <p>ethical thundercats sustainable locavore quinoa Neutra. Aesthetic tacky sweater single-origin coffee, bicycle rights organic lo-fi street art american apparel ennui four loko ethnic Brooklyn small batch. Forage YOLO polaroid</p>
+    <h2>How Obasanjo, Nuhu Ribadu, Ezekwesili Destroyed Nigeria’s Democracy – Tony Momoh </h2>
+    <p>Prince Tony Momoh, a former Minister of Information on Tuesday said former President Olusegun Obasanjo and Nuhu Ribadu, founding Chairman of the Economic and Financial Crimes Commission (EFCC) destroyed Nigeria’s democracy by barring certain politicians from participating in the 2007 general elections without recourse to the rule of law.
+
+In an interview with DAILY INDEPENDENT, Momoh also accused Ribadu of breaching the EFCC Act which stipulates that he should charge alleged corrupt persons to court after completing his investigations.
+
+However, Momoh said Ribadu upon completion of his investigations handed over the case files to Obasanjo, who in turn set up committees to determine who should be pardoned or who is to be investigated.
+
+He said based on the recommendations of the committee, many eligible politicians were barred from contesting election in the country owing to Obasanjo’s personal judgement without any court pronouncing them guilty.
+
+He further stated Oby Ezekwesili, co- founder of the BBOG campaign widely regarded as Madam Due Process was also a member of the committees set up by Obasanjo that barred politicians from contesting.
+
+“In my view, he destroyed Nuhu Ribadu because I wrote that Ribadu had been led astray. Everybody like Ribadu because of what he did in EFCC. In his investigations, the EFCC Act said he should go to court and prosecute but Ribadu collected all investigations and handed them over to Obasanjo on his instructions”.
+
+“Obasanjo on his part set up committees to address who was guilty or not. From there, it moved to another committee that decided who could be pardoned or not”.
+
+“Based on that, they disqualified people from contesting election which was outside due process. Unfortunately, my sister Oby Ezekwesili was a member of one of the committees that disqualified politicians from contesting election. That was in the area of destroying our democracy. They just messed up our Due Process” he said.
+
+</p>
     <button>Like</button>
   </article>
   <script>

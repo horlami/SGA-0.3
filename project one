@@ -19,14 +19,19 @@
       font-size: 18px;
     }
     input[type="submit"] {
-      background: red;
-      color: white;
+      background: blue;
+      color: cyan;
+    }
+    img {
+      width:200px;
+      height:200px;
+      border-radius:360px;
     }
   </style>
 </head>
 <body>
-  <img src="/assets/anna.png">
-  <p>Hi! I'm Anna, a NYC-based marketer. Say hello!</p>
+ <img src="https://source.unsplash.com/user/erondu/"/>
+  <p>Hi! I'm  olamilekan  a Lagos UX/UI designer. Say hello!</p>
   <input type="email" placeholder="Your email">
   <input type="submit">
 </body>
